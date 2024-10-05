@@ -62,8 +62,8 @@ The script will:
 ## Results
 
 - The **biased variance estimator** underestimates the population variance.
-- The **unbiased variance estimator** provides a better estimate of the true variance.
-- The **Mean Squared Error (MSE)** for the unbiased estimator is consistently lower, demonstrating its improved accuracy over the biased estimator.
+- The **unbiased variance estimator** has its mean closer to the true variance compared to the biased estimator.
+- However, the **Mean Squared Error (MSE)** of the biased estimator is smaller than that of the unbiased estimator, indicating that although the unbiased estimator provides a more accurate average, the biased estimator tends to be more consistent with less variability.
 
 ## Example Output
 
