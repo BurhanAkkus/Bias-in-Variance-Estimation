@@ -70,10 +70,6 @@ The script will:
 - Line charts comparing the density of the biased vs. unbiased variance estimates.
 - Mean Squared Error values printed to the console.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Feel free to contribute by submitting issues or pull requests. Suggestions for improvements are always welcome!
